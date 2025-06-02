@@ -1,0 +1,916 @@
+[
+  {
+    "taxa_name": "Hypomyces aurantius",
+    "hosts": [
+      {
+        "hosts": "Agaricus bisporus, Polyporales (Cymatoderma sp., Laetiporus sulphureus, Panellus sp., Polyporus picipes), Stereum sp.",
+        "distribution": "China (Anhui, Fujian, Guangxi, Hainan, Hebei, Hunan, Jiangsu, Jiangxi, Shanghai, Sichuan, Zhejiang), New Zealand, USA",
+        "source": "",
+        "notes": "",
+        "coordinates": [
+          {
+            "place": "China (Anhui",
+            "latitude": 32.0,
+            "longitude": 117.0
+          },
+          {
+            "place": "Fujian",
+            "latitude": 26.193218,
+            "longitude": 118.2208721
+          },
+          {
+            "place": "Guangxi",
+            "latitude": 24.0,
+            "longitude": 109.0
+          },
+          {
+            "place": "Hainan",
+            "latitude": 19.2000001,
+            "longitude": 109.5999999
+          },
+          {
+            "place": "Hebei",
+            "latitude": 39.0000001,
+            "longitude": 116.0
+          },
+          {
+            "place": "Hunan",
+            "latitude": 27.6662087,
+            "longitude": 111.7487063
+          },
+          {
+            "place": "Jiangsu",
+            "latitude": 33.0000001,
+            "longitude": 119.9999999
+          },
+          {
+            "place": "Jiangxi",
+            "latitude": 28.0,
+            "longitude": 116.0
+          },
+          {
+            "place": "Shanghai",
+            "latitude": 31.2312707,
+            "longitude": 121.4700152
+          },
+          {
+            "place": "Sichuan",
+            "latitude": 30.5000001,
+            "longitude": 102.4999999
+          },
+          {
+            "place": "Zhejiang)",
+            "latitude": 29.0000001,
+            "longitude": 119.9999999
+          },
+          {
+            "place": "New Zealand",
+            "latitude": -41.5000831,
+            "longitude": 172.8344077
+          },
+          {
+            "place": "USA",
+            "latitude": 39.7837304,
+            "longitude": -100.445882
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxa_name": "Hypomyces aureonitens",
+    "hosts": [
+      {
+        "hosts": "Phlebia tremellosa, Polyporus sp.",
+        "distribution": "China (Fujian, Guangxi), Europe",
+        "source": "",
+        "notes": "",
+        "coordinates": [
+          {
+            "place": "China (Fujian",
+            "latitude": 26.193218,
+            "longitude": 118.2208721
+          },
+          {
+            "place": "Guangxi)",
+            "latitude": 24.0,
+            "longitude": 109.0
+          },
+          {
+            "place": "Europe",
+            "latitude": 51.0,
+            "longitude": 10.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxa_name": "Hypomyces chlorinigenus",
+    "hosts": [
+      {
+        "hosts": "Agaricaceae, Boletaceae",
+        "distribution": "Belgium, China (Taiwan), Guyana, Indonesia, New Zealand, USA",
+        "source": "",
+        "notes": "",
+        "coordinates": [
+          {
+            "place": "Belgium",
+            "latitude": 50.6402809,
+            "longitude": 4.6667145
+          },
+          {
+            "place": "China (Taiwan)",
+            "latitude": -7.1043002,
+            "longitude": -34.8361604
+          },
+          {
+            "place": "Guyana",
+            "latitude": 4.8417097,
+            "longitude": -58.6416891
+          },
+          {
+            "place": "Indonesia",
+            "latitude": -2.4833826,
+            "longitude": 117.8902853
+          },
+          {
+            "place": "New Zealand",
+            "latitude": -41.5000831,
+            "longitude": 172.8344077
+          },
+          {
+            "place": "USA",
+            "latitude": 39.7837304,
+            "longitude": -100.445882
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxa_name": "Hypomyces chrysospermus",
+    "hosts": [
+      {
+        "hosts": "Boletus sp., Hemileccinum impolitum, Suillus americanus, Russula sp.",
+        "distribution": "China (Fujian, Jilin, Jiangsu), Russia",
+        "source": "",
+        "notes": "",
+        "coordinates": [
+          {
+            "place": "China (Fujian",
+            "latitude": 26.193218,
+            "longitude": 118.2208721
+          },
+          {
+            "place": "Jilin",
+            "latitude": 43.7289674,
+            "longitude": 126.1997366
+          },
+          {
+            "place": "Jiangsu)",
+            "latitude": 33.0000001,
+            "longitude": 119.9999999
+          },
+          {
+            "place": "Russia",
+            "latitude": 64.6863136,
+            "longitude": 97.7453061
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxa_name": "Hypomyces completiopsis",
+    "hosts": [
+      {
+        "hosts": "Boletus sp.",
+        "distribution": "China (Yunnan)",
+        "source": "",
+        "notes": "",
+        "coordinates": [
+          {
+            "place": "China (Yunnan)",
+            "latitude": 25.0,
+            "longitude": 102.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxa_name": "Hypomyces fistulina",
+    "hosts": [
+      {
+        "hosts": "Fistulina sp.",
+        "distribution": "China (Guangxi)",
+        "source": "",
+        "notes": "",
+        "coordinates": [
+          {
+            "place": "China (Guangxi)",
+            "latitude": -8.8191074,
+            "longitude": 13.2435036
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxa_name": "Hypomyces hubeiensis",
+    "hosts": [
+      {
+        "hosts": "Agaricus sp.",
+        "distribution": "China (Hubei)",
+        "source": "",
+        "notes": "",
+        "coordinates": [
+          {
+            "place": "China (Hubei)",
+            "latitude": 39.0000001,
+            "longitude": 116.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxa_name": "Hypomyces hyalinus",
+    "hosts": [
+      {
+        "hosts": "Agaricales (Amanita sp.), Polyporales",
+        "distribution": "Canada, China (Jiangsu), Japan, USA",
+        "source": "",
+        "notes": "",
+        "coordinates": [
+          {
+            "place": "Canada",
+            "latitude": 61.0666922,
+            "longitude": -107.991707
+          },
+          {
+            "place": "China (Jiangsu)",
+            "latitude": 33.0000001,
+            "longitude": 119.9999999
+          },
+          {
+            "place": "Japan",
+            "latitude": 36.5748441,
+            "longitude": 139.2394179
+          },
+          {
+            "place": "USA",
+            "latitude": 39.7837304,
+            "longitude": -100.445882
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxa_name": "Hypomyces lateritius",
+    "hosts": [
+      {
+        "hosts": "Lactarius camphoratus, L. chelidonium, L. controversus, L. deliciosus, L. sanguifluus, L. thejogalus, L. trivialis, Lactarius sp.",
+        "distribution": "Canada, China (Tibet), Europe, Japan, Mexico, New Zealand, USA",
+        "source": "",
+        "notes": "",
+        "coordinates": [
+          {
+            "place": "Canada",
+            "latitude": 61.0666922,
+            "longitude": -107.991707
+          },
+          {
+            "place": "China (Tibet)",
+            "latitude": 31.6692025,
+            "longitude": 87.473225
+          },
+          {
+            "place": "Europe",
+            "latitude": 51.0,
+            "longitude": 10.0
+          },
+          {
+            "place": "Japan",
+            "latitude": 36.5748441,
+            "longitude": 139.2394179
+          },
+          {
+            "place": "Mexico",
+            "latitude": 23.6585116,
+            "longitude": -102.0077097
+          },
+          {
+            "place": "New Zealand",
+            "latitude": -41.5000831,
+            "longitude": 172.8344077
+          },
+          {
+            "place": "USA",
+            "latitude": 39.7837304,
+            "longitude": -100.445882
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxa_name": "Hypomyces luteovirens",
+    "hosts": [
+      {
+        "hosts": "Russula atropurpurea, R. rosea, R. sanguinaria, Russula sp.",
+        "distribution": "Canada, China (Inner Mongolia), Europe, Japan, Russia, USA",
+        "source": "",
+        "notes": "",
+        "coordinates": [
+          {
+            "place": "Canada",
+            "latitude": 61.0666922,
+            "longitude": -107.991707
+          },
+          {
+            "place": "China (Inner Mongolia)",
+            "latitude": 43.2443242,
+            "longitude": 114.3251664
+          },
+          {
+            "place": "Europe",
+            "latitude": 51.0,
+            "longitude": 10.0
+          },
+          {
+            "place": "Japan",
+            "latitude": 36.5748441,
+            "longitude": 139.2394179
+          },
+          {
+            "place": "Russia",
+            "latitude": 64.6863136,
+            "longitude": 97.7453061
+          },
+          {
+            "place": "USA",
+            "latitude": 39.7837304,
+            "longitude": -100.445882
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxa_name": "Hypomyces macrosporus",
+    "hosts": [
+      {
+        "hosts": "Russulaceae",
+        "distribution": "China (Hubei), Mexico, USA",
+        "source": "",
+        "notes": "",
+        "coordinates": [
+          {
+            "place": "China (Hubei)",
+            "latitude": 39.0000001,
+            "longitude": 116.0
+          },
+          {
+            "place": "Mexico",
+            "latitude": 23.6585116,
+            "longitude": -102.0077097
+          },
+          {
+            "place": "USA",
+            "latitude": 39.7837304,
+            "longitude": -100.445882
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxa_name": "Hypomyces microspermus",
+    "hosts": [
+      {
+        "hosts": "Boletaceae, Boletus sp., Imleria badia, Xanthoconium affine, Xerocomellus chrysenteron, Xerocomus sp.",
+        "distribution": "Canada, China (Fujian, Guizhou, Hainan, Hubei, Jilin, Taiwan, Yunnan), Indonesia, New Zealand, USA",
+        "source": "",
+        "notes": "",
+        "coordinates": [
+          {
+            "place": "Canada",
+            "latitude": 61.0666922,
+            "longitude": -107.991707
+          },
+          {
+            "place": "China (Fujian",
+            "latitude": 26.193218,
+            "longitude": 118.2208721
+          },
+          {
+            "place": "Guizhou",
+            "latitude": 27.0,
+            "longitude": 107.0
+          },
+          {
+            "place": "Hainan",
+            "latitude": 19.2000001,
+            "longitude": 109.5999999
+          },
+          {
+            "place": "Hubei",
+            "latitude": 39.0000001,
+            "longitude": 116.0
+          },
+          {
+            "place": "Jilin",
+            "latitude": 43.7289674,
+            "longitude": 126.1997366
+          },
+          {
+            "place": "Taiwan",
+            "latitude": 23.5983227,
+            "longitude": 120.8353769
+          },
+          {
+            "place": "Yunnan)",
+            "latitude": 25.0,
+            "longitude": 102.0
+          },
+          {
+            "place": "Indonesia",
+            "latitude": -2.4833826,
+            "longitude": 117.8902853
+          },
+          {
+            "place": "New Zealand",
+            "latitude": -41.5000831,
+            "longitude": 172.8344077
+          },
+          {
+            "place": "USA",
+            "latitude": 39.7837304,
+            "longitude": -100.445882
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxa_name": "Hypomyces mycophilus",
+    "hosts": [
+      {
+        "hosts": "Auricularia sp., Bulgari sp., Marasmius sp., Polyporus sp., Trametes versicolor",
+        "distribution": "China (Guangdong), USA",
+        "source": "",
+        "notes": "",
+        "coordinates": [
+          {
+            "place": "China (Guangdong)",
+            "latitude": 23.1357694,
+            "longitude": 113.1982688
+          },
+          {
+            "place": "USA",
+            "latitude": 39.7837304,
+            "longitude": -100.445882
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxa_name": "Hypomyces ochraceus",
+    "hosts": [
+      {
+        "hosts": "Decaying leaves, wood and fungi (e.g., Russula sp.)",
+        "distribution": "China (Guangxi, Yunnan), Europe, USA",
+        "source": "",
+        "notes": "",
+        "coordinates": [
+          {
+            "place": "China (Guangxi",
+            "latitude": -8.8191074,
+            "longitude": 13.2435036
+          },
+          {
+            "place": "Yunnan)",
+            "latitude": 25.0,
+            "longitude": 102.0
+          },
+          {
+            "place": "Europe",
+            "latitude": 51.0,
+            "longitude": 10.0
+          },
+          {
+            "place": "USA",
+            "latitude": 39.7837304,
+            "longitude": -100.445882
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxa_name": "Hypomyces orthosporus",
+    "hosts": [
+      {
+        "hosts": "Polyporales",
+        "distribution": "China (Tibet), Estonia, Finland, The Netherlands",
+        "source": "",
+        "notes": "",
+        "coordinates": [
+          {
+            "place": "China (Tibet)",
+            "latitude": 31.6692025,
+            "longitude": 87.473225
+          },
+          {
+            "place": "Estonia",
+            "latitude": 58.7523778,
+            "longitude": 25.3319078
+          },
+          {
+            "place": "Finland",
+            "latitude": 63.2467777,
+            "longitude": 25.9209164
+          },
+          {
+            "place": "The Netherlands",
+            "latitude": 52.2434979,
+            "longitude": 5.6343227
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxa_name": "Hypomyces papulasporae",
+    "hosts": [
+      {
+        "hosts": "Geoglossum difforme, G. fallax, G. glabrum, G. nigritum, G. simile, Glutinoglossum glutinosum, Trichoglossum hirsutum, T. walteri",
+        "distribution": "China, USA, New Zealand",
+        "source": "",
+        "notes": "",
+        "coordinates": [
+          {
+            "place": "China",
+            "latitude": 35.0000663,
+            "longitude": 104.999955
+          },
+          {
+            "place": "USA",
+            "latitude": 39.7837304,
+            "longitude": -100.445882
+          },
+          {
+            "place": "New Zealand",
+            "latitude": -41.5000831,
+            "longitude": 172.8344077
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxa_name": "Hypomyces polyporinus",
+    "hosts": [
+      {
+        "hosts": "Auricularia auricula-judae, Polyporales, Trametes versicolor, T. pubescens, Polyporus sp.",
+        "distribution": "Canada, China (Guangxi), USA",
+        "source": "",
+        "notes": "",
+        "coordinates": [
+          {
+            "place": "Canada",
+            "latitude": 61.0666922,
+            "longitude": -107.991707
+          },
+          {
+            "place": "China (Guangxi)",
+            "latitude": -8.8191074,
+            "longitude": 13.2435036
+          },
+          {
+            "place": "USA",
+            "latitude": 39.7837304,
+            "longitude": -100.445882
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxa_name": "Hypomyces pseudolactifluorum sp. nov.",
+    "hosts": [
+      {
+        "hosts": "Russula sp.",
+        "distribution": "China (Yunnan)",
+        "source": "",
+        "notes": "",
+        "coordinates": [
+          {
+            "place": "China (Yunnan)",
+            "latitude": 25.0,
+            "longitude": 102.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxa_name": "Hypomyces rosellus",
+    "hosts": [
+      {
+        "hosts": "Agaricus bisporus, Armillaria sp., Hydnellum sp., Hyphoderma sp., Mycena sp., Polyporus sp., Russula sp., Trichaptum sp.",
+        "distribution": "China (Gansu), Europe, Iran, Japan, Korea, USA",
+        "source": "",
+        "notes": "",
+        "coordinates": [
+          {
+            "place": "China (Gansu)",
+            "latitude": 38.0000001,
+            "longitude": 101.9999999
+          },
+          {
+            "place": "Europe",
+            "latitude": 51.0,
+            "longitude": 10.0
+          },
+          {
+            "place": "Iran",
+            "latitude": 32.6475314,
+            "longitude": 54.5643516
+          },
+          {
+            "place": "Japan",
+            "latitude": 36.5748441,
+            "longitude": 139.2394179
+          },
+          {
+            "place": "Korea",
+            "latitude": 37.9528488,
+            "longitude": 126.7331171
+          },
+          {
+            "place": "USA",
+            "latitude": 39.7837304,
+            "longitude": -100.445882
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxa_name": "Hypomyces semicircularis",
+    "hosts": [
+      {
+        "hosts": "Ganoderma sichuanense, Microporus xanthopus",
+        "distribution": "Cuba, China",
+        "source": "",
+        "notes": "",
+        "coordinates": [
+          {
+            "place": "Cuba",
+            "latitude": 23.0131338,
+            "longitude": -80.8328748
+          },
+          {
+            "place": "China",
+            "latitude": 35.0000663,
+            "longitude": 104.999955
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxa_name": "Hypomyces sibirinae",
+    "hosts": [
+      {
+        "hosts": "Aphyllophorales, Boletus sp., Polyporales",
+        "distribution": "China (Hunan), Indonesia, USA",
+        "source": "",
+        "notes": "",
+        "coordinates": [
+          {
+            "place": "China (Hunan)",
+            "latitude": 27.6662087,
+            "longitude": 111.7487063
+          },
+          {
+            "place": "Indonesia",
+            "latitude": -2.4833826,
+            "longitude": 117.8902853
+          },
+          {
+            "place": "USA",
+            "latitude": 39.7837304,
+            "longitude": -100.445882
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxa_name": "Hypomyces sinicus",
+    "hosts": [
+      {
+        "hosts": "Schizophyllum sp.",
+        "distribution": "China (Anhui)",
+        "source": "",
+        "notes": "",
+        "coordinates": [
+          {
+            "place": "China (Anhui)",
+            "latitude": 32.0,
+            "longitude": 117.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxa_name": "Hypomyces stephanomatis",
+    "hosts": [
+      {
+        "hosts": "Humaria hemisphaerica, Humaria sp.",
+        "distribution": "Canada, China (Hubei), Germany, USA",
+        "source": "",
+        "notes": "",
+        "coordinates": [
+          {
+            "place": "Canada",
+            "latitude": 61.0666922,
+            "longitude": -107.991707
+          },
+          {
+            "place": "China (Hubei)",
+            "latitude": 39.0000001,
+            "longitude": 116.0
+          },
+          {
+            "place": "Germany",
+            "latitude": 51.1638175,
+            "longitude": 10.4478313
+          },
+          {
+            "place": "USA",
+            "latitude": 39.7837304,
+            "longitude": -100.445882
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxa_name": "Hypomyces subiculosus",
+    "hosts": [
+      {
+        "hosts": "Polyporaceae (Microporus affinis, Trametes versicolor)",
+        "distribution": "China (Anhui, Beijing, Guangxi, Zhejiang), Cuba, Japan",
+        "source": "",
+        "notes": "",
+        "coordinates": [
+          {
+            "place": "China (Anhui",
+            "latitude": 32.0,
+            "longitude": 117.0
+          },
+          {
+            "place": "Beijing",
+            "latitude": 40.190632,
+            "longitude": 116.412144
+          },
+          {
+            "place": "Guangxi",
+            "latitude": 24.0,
+            "longitude": 109.0
+          },
+          {
+            "place": "Zhejiang)",
+            "latitude": 29.0000001,
+            "longitude": 119.9999999
+          },
+          {
+            "place": "Cuba",
+            "latitude": 23.0131338,
+            "longitude": -80.8328748
+          },
+          {
+            "place": "Japan",
+            "latitude": 36.5748441,
+            "longitude": 139.2394179
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxa_name": "Hypomyces succineus",
+    "hosts": [
+      {
+        "hosts": "Pholiota sp.",
+        "distribution": "China (Taiwan), USA",
+        "source": "",
+        "notes": "",
+        "coordinates": [
+          {
+            "place": "China (Taiwan)",
+            "latitude": -7.1043002,
+            "longitude": -34.8361604
+          },
+          {
+            "place": "USA",
+            "latitude": 39.7837304,
+            "longitude": -100.445882
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxa_name": "Hypomyces tegillum",
+    "hosts": [
+      {
+        "hosts": "Aphyllophorales, Polyporales",
+        "distribution": "Brazil, China (Guangxi, Yunnan), Panama, USA",
+        "source": "",
+        "notes": "",
+        "coordinates": [
+          {
+            "place": "Brazil",
+            "latitude": -10.3333333,
+            "longitude": -53.2
+          },
+          {
+            "place": "China (Guangxi",
+            "latitude": -8.8191074,
+            "longitude": 13.2435036
+          },
+          {
+            "place": "Yunnan)",
+            "latitude": 25.0,
+            "longitude": 102.0
+          },
+          {
+            "place": "Panama",
+            "latitude": 8.559559,
+            "longitude": -81.1308434
+          },
+          {
+            "place": "USA",
+            "latitude": 39.7837304,
+            "longitude": -100.445882
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxa_name": "Hypomyces triseptatus",
+    "hosts": [
+      {
+        "hosts": "Bark or associated with an ascomycete; Pyrenomycete",
+        "distribution": "China (Hunan, Guangdong), Gabon",
+        "source": "",
+        "notes": "",
+        "coordinates": [
+          {
+            "place": "China (Hunan",
+            "latitude": 27.6662087,
+            "longitude": 111.7487063
+          },
+          {
+            "place": "Guangdong)",
+            "latitude": 23.1357694,
+            "longitude": 113.1982688
+          },
+          {
+            "place": "Gabon",
+            "latitude": -0.8999695,
+            "longitude": 11.6899699
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "taxa_name": "Hypomyces yunnanensis",
+    "hosts": [
+      {
+        "hosts": "Boletus sp.",
+        "distribution": "China (Yunnan)",
+        "source": "",
+        "notes": "",
+        "coordinates": [
+          {
+            "place": "China (Yunnan)",
+            "latitude": 25.0,
+            "longitude": 102.0
+          }
+        ]
+      }
+    ]
+  }
+]
